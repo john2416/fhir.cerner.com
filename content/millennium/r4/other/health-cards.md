@@ -110,7 +110,7 @@ _Implementation Notes_
 
 ### Authorization Types
 
-<%= authorization_types(provider: false, patient: true, system: false) %>
+<%= authorization_types(provider: true, patient: true, system: false) %>
 
 _Implementation Notes_
 
